@@ -8,7 +8,7 @@ This project analyzes Netflix content trends using Power BI.
 - Total Titles: 23K+
 
 📸 Dashboard Preview
-![Dashboard](images/netflix-dashboard.png)
+![Dashboard](netflix-dashboard.png)
 
 ⚙️ Tools Used
 - Power BI
