@@ -78,5 +78,5 @@ The goal of this project is to demonstrate **data analysis, visualization, and b
 - DAX
 
 ## 📁 Files
-- (NETFLIX DASHBOARD.pbix)
-- (netflix_titles.csv)
+- NETFLIX DASHBOARD.pbix
+- netflix_titles.csv
